@@ -1,0 +1,9 @@
+No     | English                            | Vietnamese
+--------------------------------------------------------------------------
+1      | home                               | nha                                
+2      | friend                             | ban                                
+3      | have                               | co                                 
+4      | what                               | cai gi                             
+5      | eat                                | an                                 
+6      | no                                 | khong                              
+7      | chicken                            | ga  
